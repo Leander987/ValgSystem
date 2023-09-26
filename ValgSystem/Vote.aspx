@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server">    
         <div>
             <asp:DropDownList ID="DropDownListParti" runat="server">
                 <asp:ListItem Selected="True" Value="0">Velg Party</asp:ListItem>

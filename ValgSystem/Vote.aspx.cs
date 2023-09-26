@@ -14,7 +14,7 @@ namespace ValgSystem
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            BindDropDownListParti();
+            BindDropDownListParti(); 
         }
 
         private void BindDropDownListParti()//dette blir en select *. det som returneres skal bindes til dropdown 
